@@ -1,3 +1,4 @@
+
 📊 HR Attrition Analytics Dashboard
 Transforming complex employee data into clear, actionable retention insights using Excel 
 
@@ -74,6 +75,8 @@ Additional Patterns
 •	Employees with Life Sciences and Medical educational backgrounds show the highest attrition rates.
 •	Work distance (Far / Very Far) is a significant contributing factor to employee departures.
 •	Attrition is heavily concentrated in the 26–35 age group, representing peak career mobility years.
+
+<img width="677" height="284" alt="attrition 2" src="https://github.com/user-attachments/assets/22ac3c12-b831-472b-bd56-2a03f1283734" />
 
 Recommendations
 Priority	Recommendation
