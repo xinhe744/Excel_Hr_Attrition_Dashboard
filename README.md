@@ -102,6 +102,8 @@ Conclusion
 
 This HR Attrition Dashboard demonstrates that attrition is not random — it is heavily concentrated in specific roles, departments, and demographics. The loss of high performers and key technical or sales talent poses a direct risk to organizational performance and institutional knowledge retention.
 The project showcases applied skills in:
+
+
 •	HR data analytics and workforce intelligence
 •	Interactive dashboard design and storytelling with data
 •	Translating complex data patterns into strategic business recommendations
