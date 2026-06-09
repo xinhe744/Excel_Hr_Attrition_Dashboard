@@ -1,8 +1,10 @@
 
 📊 HR Attrition Analytics Dashboard
+
 Transforming complex employee data into clear, actionable retention insights using Excel 
 
 📌 Table of Contents
+
 •	Project Overview
 •	Dataset Information
 •	Objectives
@@ -15,10 +17,12 @@ Transforming complex employee data into clear, actionable retention insights usi
 •	Conclusion
 
 Project Overview
+
 Employee attrition is one of the most costly challenges organizations face today. This project analyzes a comprehensive HR dataset to understand why employees leave, identify high-risk groups, and uncover underlying patterns across departments, demographics, and job roles.
 Using Excel for cleaning the data, with the help of pivot tables and formulars for analyzing and visualization, the raw data was transformed into an interactive HR Attrition Dashboard that enables deep exploration by department, gender, performance level, and other key dimensions.
 
 Dataset Information
+
 Attribute	Details
 Dataset	HR Attrition Dataset
 Source    Github                 	 
@@ -27,6 +31,7 @@ Key Dimensions	Job Role, Department, Education, Business Travel, Work Distance, 
 Departments covered: HR, Research & Development (R&D), Sales
 
 Objectives
+
 •	Measure overall and departmental attrition rates
 •	Identify high-risk job roles and demographic segments
 •	Analyze the impact of business travel, commute distance, and performance rating on attrition
@@ -34,6 +39,7 @@ Objectives
 •	Provide actionable, data-driven recommendations for talent retention
 
 Project Workflow
+
 1.	Imported and cleaned the raw HR dataset in Excel
 2.	Created calculated measures — attrition rate, average job role attrition, etc.
 3.	Built an interactive  dashboard with department and gender filter slicers
@@ -41,6 +47,7 @@ Project Workflow
 5.	Derived data-driven insights and strategic retention recommendations
 
 Dashboard Preview
+
 Replace the placeholder paths below with your actual dashboard screenshots after uploading them to the repository.
 Overall View
 Show Image
@@ -48,6 +55,7 @@ Gender & Department Views
 Show Image
 ________________________________________
 Key Performance Indicators
+
 KPI	Value
 Total Employees	2,925
 Total Attrition	473
@@ -58,7 +66,9 @@ Attrition — High Performers	413
 Attrition — Low Performers	79
 
 Key Insights
+
 Overall Findings
+
 •	The organization carries a 16% attrition rate, which is significantly above the benchmark for most industries.
 •	Laboratory Technician, Sales Executive, and Research Scientist are the three roles with the highest attrition counts — 130, 113, and 99 respectively.
 •	Business travel is a major driver: employees who travel rarely account for the highest number of departures (325), suggesting burnout or work-life imbalance.
@@ -79,6 +89,7 @@ Additional Patterns
 <img width="677" height="284" alt="attrition 2" src="https://github.com/user-attachments/assets/22ac3c12-b831-472b-bd56-2a03f1283734" />
 
 Recommendations
+
 Priority	Recommendation
 High	Targeted Retention Programs — Focus on Laboratory Technicians, Sales Executives, and Research Scientists, the three highest-risk roles.
 High	High-Performer Retention Strategy — Implement structured career progression, recognition, and compensation reviews specifically for top talent.
@@ -88,6 +99,7 @@ Medium	Work Distance Support — Offer remote work options or relocation assista
 Low	Improve Role Alignment — Address potential mismatches between educational backgrounds and assigned job roles, particularly in Sales and R&D.
 
 Conclusion
+
 This HR Attrition Dashboard demonstrates that attrition is not random — it is heavily concentrated in specific roles, departments, and demographics. The loss of high performers and key technical or sales talent poses a direct risk to organizational performance and institutional knowledge retention.
 The project showcases applied skills in:
 •	HR data analytics and workforce intelligence
