@@ -65,6 +65,9 @@ Average Employee Age	37 years
 Attrition — High Performers	413
 Attrition — Low Performers	79
 
+
+<img width="707" height="304" alt="Hr attrition image" src="https://github.com/user-attachments/assets/0c9a4b7d-c221-4185-bc6c-4bbf4a7a7679" />
+
 Key Insights
 
 Overall Findings
