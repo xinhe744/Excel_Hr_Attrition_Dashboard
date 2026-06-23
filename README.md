@@ -89,7 +89,15 @@ Additional Patterns
 •	Work distance (Far / Very Far) is a significant contributing factor to employee departures.
 •	Attrition is heavily concentrated in the 26–35 age group, representing peak career mobility years.
 
+MALE DATA FILTER
+
 <img width="677" height="284" alt="attrition 2" src="https://github.com/user-attachments/assets/22ac3c12-b831-472b-bd56-2a03f1283734" />
+
+
+ FEMALE DATA FILTER
+
+ <img width="641" height="272" alt="hr attrition female filter" src="https://github.com/user-attachments/assets/8695c20a-42c1-4cc8-988e-e6a79f28d3bf" />
+
 
 Recommendations
 
